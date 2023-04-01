@@ -2,4 +2,7 @@
     <string name="app_name">DemoFirebase</string>
     <string name="enterName">Enter Name: </string>
     <string name="addToDatabase">Add To Database</string>
+    <string name="enterRoll">Enter Roll: </string>
+    <string name="enterCourse">Enter Course</string>
+    <string name="enterCGPA">Enter CGPA</string>
 </resources>
